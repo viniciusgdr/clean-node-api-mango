@@ -5,6 +5,7 @@
         "target": "ES2019",
         "esModuleInterop": false,
         "allowJs": true,
-        "strictNullChecks": true
+        "strictNullChecks": true,
+        "removeComments": true
     }
 }
